@@ -1,0 +1,5 @@
+daemonize
+image=~/.config/swaylock/ba-lxdm.png
+hide-keyboard-layout
+no-unlock-indicator
+ignore-empty-password
